@@ -227,3 +227,9 @@ footer .bottom-details .bottom_text {
     width: 100%;
   }
 }
+@media screen and (max-width: 480px) {
+  footer .content {
+    margin-top: -85px;
+    padding: 30px 40px 40px 40px;
+  }
+}

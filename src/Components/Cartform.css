@@ -48,3 +48,10 @@ article {
     transform: rotate(360deg);
   }
 }
+@media screen and (max-width: 480px){
+  .heading_content {
+    margin-top: -0px;
+    font-size: 32px;
+    text-align: center;
+  }
+}

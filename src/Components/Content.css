@@ -112,7 +112,25 @@
     height: 100%;
   }
 }
-/////////
-.footer_header{
-  
+
+@media screen and (max-width: 480px){
+  .img_kit {
+    margin-top: -200px;
+    width: 400px;
+    height: 400px;
+  }
+  .heading_kit {
+    font-size: 35px;
+    margin: 8px 0px -30px 10px;
+  }
+  .kit_description {
+    font-size: 20px;
+    line-height: 36px;
+  }
+  .btn_kit {
+    margin: -5px 0px 0px 0px;
+    padding: 15px;
+    border-radius: 20px;
+    font-size: 20px;
+  }
 }
