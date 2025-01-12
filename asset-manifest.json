@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/E-Commerce-Website-Using-React/static/css/main.e4c969cb.css",
-    "main.js": "/E-Commerce-Website-Using-React/static/js/main.e655b0b5.js",
+    "main.js": "/E-Commerce-Website-Using-React/static/js/main.781afa3b.js",
     "static/media/01.webp": "/E-Commerce-Website-Using-React/static/media/01.acdf8402de97e285f5f7.webp",
     "static/media/huronbottle.webp": "/E-Commerce-Website-Using-React/static/media/huronbottle.c09d96cce7ce9d7ed319.webp",
     "static/media/logo.avif": "/E-Commerce-Website-Using-React/static/media/logo.45fcb2dd27bf9f9bb28b.avif",
     "index.html": "/E-Commerce-Website-Using-React/index.html",
     "main.e4c969cb.css.map": "/E-Commerce-Website-Using-React/static/css/main.e4c969cb.css.map",
-    "main.e655b0b5.js.map": "/E-Commerce-Website-Using-React/static/js/main.e655b0b5.js.map"
+    "main.781afa3b.js.map": "/E-Commerce-Website-Using-React/static/js/main.781afa3b.js.map"
   },
   "entrypoints": [
     "static/css/main.e4c969cb.css",
-    "static/js/main.e655b0b5.js"
+    "static/js/main.781afa3b.js"
   ]
 }
